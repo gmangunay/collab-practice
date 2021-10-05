@@ -1,0 +1,10 @@
+body{
+    padding: 10px;
+}
+div {
+height: calc(100vh/4);
+}
+h1,h2{
+    color: white;
+    text-align: center;
+}
